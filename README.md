@@ -24,7 +24,7 @@
 ### 🟩┃Bookmarklet
 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Wordle-AutoAwnser/refs/heads/main/Versions/AbsurdleCheat.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Absurdle-AutoAwnser/refs/heads/main/Versions/AbsurdleCheat.js").then(t=>t.text()).then(eval);
 ```
 
 ---
